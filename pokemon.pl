@@ -70,7 +70,7 @@ double(ice, ground).
 
 /* Normal does double damage to no other class */
 
-double(posion, grass).
+double(poison, grass).
 double(poison, fairy).
 
 double(psychic, fighting).
@@ -110,8 +110,8 @@ half(electric, electric).
 half(electric, grass).
 
 half(fairy, fire).
-half(fiary, poison).
-half(fiary, steel).
+half(fairy, poison).
+half(fairy, steel).
 
 half(fighting, bug).
 half(fighting, fairy).
